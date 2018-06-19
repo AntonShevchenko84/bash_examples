@@ -2,6 +2,7 @@
 #mdate - Normalizes month field in date specification
 #    to three letters, first letter capitalized. A helper
 #    function for hack #7, validdate.  Exits w/ zero if no error.
+#Addendum
 OUTPUT=""
 monthToName()
 {
