@@ -1,6 +1,6 @@
 #!/bin/bash
 #this script search for multiple files with same content based on sha1 or md5 hash
-#
+# Anton She3vchenko 2018
 #
 # duplicate [--algo] [--size] [directory]
 

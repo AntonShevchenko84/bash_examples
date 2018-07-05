@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #This script is intended to create duplicate random files with different sizes and names
-
+#yes it works
 DIRNAME='rand_files'
 EXT=('log' 'txt' 'conf')
 NAMES=('apache' 'nginx' 'couchdb' 'docker')
